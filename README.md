@@ -34,6 +34,10 @@ The hunger for knowledge is one of my favorite hobbies, I always try to rise to 
 
 <a href="http://www.github.com/WBilly-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=WBilly-dev&stroke=ffffff&background=171717&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+### Github Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=WBilly-dev-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
